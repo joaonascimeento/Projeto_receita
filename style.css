@@ -9,7 +9,7 @@
     font-size: 16px;
 }
 body {
-    background-image: url(assets/backGround-image.jpg);
+    background-image: url(assets/background_image.png);
     background-size: cover;
 }
 
@@ -19,7 +19,7 @@ body {
     padding: 24px;
     background-color: #f0E8C2;
     border-radius: 24px;
-    margin: 48px auto;
+    margin: 48px auto 28px;
 }
 
 img {
@@ -58,4 +58,14 @@ h1, h2 {
 
 ul {
     padding-left: 24px;
+}
+
+footer {
+    text-align: center;
+    color: #F0E8C2;
+    background-color: #573A37;
+}
+
+footer img {
+    vertical-align: middle;
 }
